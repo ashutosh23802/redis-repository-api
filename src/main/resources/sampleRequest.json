@@ -1,0 +1,8 @@
+{
+  "cusip" : "101",
+  "reportingSeq" : 1000,
+  "categoryFundSeq" : 1000,
+   "externalTickerSymbol" : "MMMMM",
+   "name" : "Global Equity Bond",
+   "tickerSymbol" : "MMMMM"
+}
